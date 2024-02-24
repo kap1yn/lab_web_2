@@ -75,7 +75,6 @@ h2 {
 
 .close-btn {
     background-color: red;
-    width: 30%;
     height: 2rem;
     color: white;
     margin: 0 0 0 auto;
@@ -83,7 +82,6 @@ h2 {
 
 .agree-btn {
     background-color: green;
-    width: 30%;
     height: 2rem;
     color: white;
     margin: auto 0 0 0;
@@ -91,7 +89,7 @@ h2 {
 
 ul {
     list-style-type: none;
-    padding: 0 auto;
+    padding: 0;
     margin: 0;
     display: flex;
     flex-direction: row;
